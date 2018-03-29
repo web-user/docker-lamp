@@ -40,6 +40,8 @@
 
     mysqli_close($conn);
 
+    phpinfo();
+
     ?>
     </div>
 </body>
