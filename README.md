@@ -40,5 +40,8 @@ docker rm CONTAINER_ID
 docker-compose build
 ```
 
+http://localhost:8001/ - www/index.php
+
+http://localhost:8000/ - phpMyAdmin
 
 That's it!
